@@ -2,7 +2,6 @@
 
 package lesson5.task1
 
-import ru.spbstu.wheels.NullableMonad.filter
 import java.util.*
 import kotlin.math.pow
 
