@@ -6,15 +6,15 @@
 
 #### Lesson 5
 
-![](\lesson5\screenshot.png)
+![](./lesson5/screenshot.png)
 
 #### Lesson 6
 
-![](\lesson6\screenshot.png)
+![](./lesson6/screenshot.png)
 
 #### Lesson 7
 
-![](\lesson7\screenshot.png)
+![](./lesson7/screenshot.png)
 
 ### Вывод
 
