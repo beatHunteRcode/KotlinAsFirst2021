@@ -6,15 +6,15 @@
 
 #### Lesson 5
 
-![](D:\Programming\Kotlin\Idea Projects\KotlinAsFirst2021\results\coverage\lesson5\screenshot.png)
+![](\lesson5\screenshot.png)
 
 #### Lesson 6
 
-![](D:\Programming\Kotlin\Idea Projects\KotlinAsFirst2021\results\coverage\lesson6\screenshot.png)
+![](\lesson6\screenshot.png)
 
 #### Lesson 7
 
-![](D:\Programming\Kotlin\Idea Projects\KotlinAsFirst2021\results\coverage\lesson7\screenshot.png)
+![](\lesson7\screenshot.png)
 
 ### Вывод
 
