@@ -20,7 +20,7 @@
 
 ## Fuzzing
 
-Теперь посмотрим на результаты fuzzing-тестов
+Теперь посмотрим на результаты fuzzing-тестов. При написании fuzzing-тестов использовалась библиотека [junit-quickcheck](https://github.com/pholser/junit-quickcheck).
 
 #### lesson5
 
